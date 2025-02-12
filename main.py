@@ -1,5 +1,6 @@
 def print_hello_word():
-    pass
+    print("helllllooooo world!!!!!!!!!!!!!!!!!!!!!!")
+    print('goood')
 
 def kefel(num,num_kefel):
     print(num * num_kefel)
